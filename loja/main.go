@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/jonnes-nascimento/loja/routes"
+	"github.com/jonnes-nascimento/go/loja/routes"
 )
 
 func main() {

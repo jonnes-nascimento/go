@@ -1,6 +1,6 @@
 package models
 
-import "github.com/jonnes-nascimento/loja/db"
+import "github.com/jonnes-nascimento/go/loja/db"
 
 // Produto e a estrutura que contem as caracteristicas do produto da loja
 type Produto struct {
