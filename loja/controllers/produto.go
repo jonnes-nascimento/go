@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"text/template"
 
-	"github.com/jonnes-nascimento/models"
+	"github.com/jonnes-nascimento/loja/models"
 )
 
 //var t = template.Must(template.ParseGlob("templates/*.html"))

@@ -3,7 +3,7 @@ package routes
 import (
 	"net/http"
 
-	"github.com/jonnes-nascimento/controllers"
+	"github.com/jonnes-nascimento/loja/controllers"
 )
 
 // LoadRoutes carrega todos os mapeamentos de rota
