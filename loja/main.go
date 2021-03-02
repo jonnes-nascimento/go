@@ -9,7 +9,8 @@ import (
 
 func main() {
 
-	fmt.Println("'Loja do Jonnes' executando na porta 8000")
+	println("Hello!")
+	fmt.Println("'Loja do Jonnes' está executando e está disponível em localhost:8000")
 
 	routes.LoadRoutes()
 
